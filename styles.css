@@ -1,0 +1,74 @@
+h1, p {
+  margin: auto;
+  text-align: center;
+  font-family: Futura;
+  padding-bottom: 5px;
+  color: rgb(0, 10, 50);
+}
+
+p {
+  padding-bottom: 50px
+}
+
+body {
+  background-image: url(https://scontent.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/240989289_4593733673978208_3438267393053803966_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=7RpzMCk9tTEAX93YeXR&_nc_ht=scontent.fmnl25-1.fna&oh=00_AT9qskR7RDlMk3Qwm8xsyE7Jrh8paR2dOMBufHi-mE0CjA&oe=62F3BA04);
+  background-position: center;
+  background-size: cover;
+}
+
+div {
+  background-color: rgba(0, 50, 155, 0.8);
+  border-radius: 10px;
+}
+
+fieldset {
+  border: none;
+  margin: auto;
+  padding: 10px;
+}
+
+input[type="text"], input[type="number"], input[type="email"], label {
+  display: block;
+  color: white;
+  font-size: 18px;
+  font-family: Tahoma;
+  margin: auto;
+  width: 500px;
+}
+
+input[type="text"], input[type="number"], input[type="email"] {
+  margin-top: 5px;
+}
+
+input[type="submit"] {
+  background-color: rgb(0, 155, 50);
+  color: white;
+  margin: 10px 100px;
+  width: 300px;
+  height: 50px;
+  border: none;
+  font-family: Tahoma;
+  font-size: 20px
+}
+
+label {
+  padding-bottom: 10px
+}
+
+option, select {
+  color: black;
+  display: block;
+  font-size: 18px;
+  font-family: Tahoma;
+  margin: auto;
+  width: 500px;
+}
+
+textarea {
+  width: 500px;
+  height: 100px;
+}
+
+::placeholder {
+  font-size: 20px;
+}
