@@ -20,7 +20,7 @@ body {
 }
 
 .image-section {
-  width: 90%;
+  width: 30%;
   margin: 10px auto;
   
 }
@@ -46,12 +46,13 @@ div img {
 }
 
 .fact-list {
-  margin: 5px 50px;
+  margin: 5px auto;
   background-color: #A8e6c1;
   padding: 20px;
   border-style: solid;
   border-width: 1px;
   border-radius: 10px;
+  width: 50%;
 }
 
 ul {
