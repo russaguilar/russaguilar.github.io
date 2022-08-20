@@ -28,8 +28,8 @@ div img {
   display: block;
   height: auto;
   width: auto%;
-  max-height: auto;
-  max-width: auto;
+  max-height: 80%;
+  max-width: 80%;
   margin: 20px auto;
   padding-left: 0px;
   padding-right: 0px;
