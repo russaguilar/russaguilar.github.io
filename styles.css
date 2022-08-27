@@ -144,7 +144,7 @@ main {
   display: grid;
   grid-template-rows: 8rem 8rem 1fr;
   justify-content: start;
-  row-gap: 5rem;
+  row-gap: 13rem;
 }
 
 .worldclass, .client, .accessibility {
